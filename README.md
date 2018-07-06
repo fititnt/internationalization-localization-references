@@ -85,9 +85,20 @@ _TODO: improve this list (fititnt, 2018-07-06 12:37 BRT)_
 - _Do IETF have translation process?_
 
 ### United Nations
+- 2 tiers of translation
+- Oficial translation
+  - How to become UN translator: <https://careers.un.org/lbw/home.aspx?viewtype=LCEFD&FId=7>
+  - 6 Official languages
+- Volunteer translation
+  - Submissions Guide: <https://www.ohchr.org/EN/UDHR/Pages/SubmissionGuide.aspx>
+  - 508 translations https://www.ohchr.org/EN/UDHR/Pages/SearchByLang.aspx
 - ...
 
 #### World Wide Web Consortium
-- List of translations: <https://www.w3.org/Consortium/Translation/>
-- How to Volunteer: <https://www.w3.org/Consortium/Translation/#volunteer>
-- ...
+- 2 tiers of translation
+- Oficial translation
+  - Policy for Authorized W3C Translations: <https://www.w3.org/2005/02/TranslationPolicy.html>
+  - 16 Autorized Translations <https://www.w3.org/2005/11/Translations/Lists/ListAuth.html>
+- Volunteer translation
+  - How to Volunteer: <https://www.w3.org/Consortium/Translation/#volunteer>
+  - 479 volunteer translations <https://www.w3.org/2005/11/Translations/Query?rec=any&lang=any&translator=any&date=any&sorting=byTechnology&output=FullHTML&submit=Submit>
